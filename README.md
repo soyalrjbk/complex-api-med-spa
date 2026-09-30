@@ -2,7 +2,7 @@
 
 A skin care tips app for a med spa. You type in a U.S. zip code, and it shows the city, today's UV index, and the current humidity, along with skin care tips based on those numbers. It uses two APIs: Zippopotam.us to turn the zip code into a location, and Open-Meteo for the UV and humidity data.
 
-**Link to project:** https://medspa-api-project.netlify.app
+**Live Demo:** https://medspa-api-project.netlify.app
 
 [![Screenshot-2026-09-30-at-3-16-13-AM.png](https://i.postimg.cc/C5VjRnZZ/Screenshot-2026-09-30-at-3-16-13-AM.png)](https://postimg.cc/R6X38FL9)
 
